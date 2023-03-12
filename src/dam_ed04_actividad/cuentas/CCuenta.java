@@ -12,6 +12,7 @@ public class CCuenta {
     private String nombre;
     private String cuenta;
     private double saldo;
+    // Eliminada la tilde del atributo
     private double tipoInteres;
 
 
@@ -24,6 +25,8 @@ public class CCuenta {
         nombre =nom;
         cuenta=cue;
         saldo=sal;
+        // Agregada inicialización
+        tipoInteres = tipo;
     }
 
     public void asignarNombre(String nom)
