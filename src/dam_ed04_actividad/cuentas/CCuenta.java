@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package dam_ed04_actividad;
+package dam_ed04_actividad.cuentas;
 
 
 public class CCuenta {
