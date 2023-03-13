@@ -6,7 +6,7 @@
 package dam_ed04_actividad.cuentas;
 
 /**
- * Clase que permite operar sobre la cuenta bancaria de un cliente.
+ * Clase que representa y permite operar sobre la cuenta bancaria de un cliente.
  * 
  * @author Juan Carlos Vilarrubia
  * @version 1.0
